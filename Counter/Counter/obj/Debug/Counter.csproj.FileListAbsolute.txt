@@ -1,0 +1,11 @@
+C:\Users\Arvid\Desktop\saker\Testing Station\ArvidsTestingTrunk\Counter\Counter\bin\Debug\Counter.exe.config
+C:\Users\Arvid\Desktop\saker\Testing Station\ArvidsTestingTrunk\Counter\Counter\bin\Debug\Counter.exe
+C:\Users\Arvid\Desktop\saker\Testing Station\ArvidsTestingTrunk\Counter\Counter\bin\Debug\Counter.pdb
+C:\Users\Arvid\Desktop\saker\Testing Station\ArvidsTestingTrunk\Counter\Counter\obj\Debug\Counter.csproj.AssemblyReference.cache
+C:\Users\Arvid\Desktop\saker\Testing Station\ArvidsTestingTrunk\Counter\Counter\obj\Debug\Counter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arvid\Desktop\saker\Testing Station\ArvidsTestingTrunk\Counter\Counter\obj\Debug\Counter.Properties.Resources.resources
+C:\Users\Arvid\Desktop\saker\Testing Station\ArvidsTestingTrunk\Counter\Counter\obj\Debug\Counter.csproj.GenerateResource.cache
+C:\Users\Arvid\Desktop\saker\Testing Station\ArvidsTestingTrunk\Counter\Counter\obj\Debug\Counter.csproj.CoreCompileInputs.cache
+C:\Users\Arvid\Desktop\saker\Testing Station\ArvidsTestingTrunk\Counter\Counter\obj\Debug\Counter.exe
+C:\Users\Arvid\Desktop\saker\Testing Station\ArvidsTestingTrunk\Counter\Counter\obj\Debug\Counter.pdb
+C:\Users\Arvid\Desktop\saker\Testing Station\ArvidsTestingTrunk\Counter\Counter\obj\Debug\Counter.Counter.resources
